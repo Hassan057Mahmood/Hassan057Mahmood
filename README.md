@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hassan Mahmood
 
-<!--
-**Hassan057Mahmood/Hassan057Mahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student who loves programming and learning new technologies. I enjoy building small projects and I am currently learning Git, GitHub and web development. My goal is to become a professional software developer.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies           |
+|-----------|------------------------|
+| Languages | Python, JavaScript     |
+| Tools     | Git, GitHub, VS Code   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1
+Coming soon.
+
+## Education
+BS Software Engineering, University Name, 2026
+
+## Contact
+- Email: your.email@example.com
+- GitHub: [@Hassan057Mahmood](https://github.com/Hassan057Mahmood)
